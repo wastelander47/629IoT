@@ -4,3 +4,12 @@ I don't know what's the correct format for a weekly report, but here it is.
 So I followed the steps on lesson1 and successfully started my raspberry Pi.
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab1-3.jpg)
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab1-4.jpg)
+
+Then I enabled my Google account's 2-step verification, generated a Google App 16-letter password and put it into the code.
+
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab1-2.jpg)
+
+And I ran the code to send an email to my subaccount. My subaccount received the mail successfully.
+
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab1-1.jpg)
