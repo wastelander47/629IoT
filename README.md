@@ -9,7 +9,6 @@ I followed the steps on lesson1 and successfully started my raspberry Pi.
 
 Then I enabled my Google account's 2-step verification, generated a Google App 16-letter password and put it into the code.
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/lab1-2.jpg)
 
 And I ran the code to send an email to my subaccount. My subaccount received the mail successfully.
 
