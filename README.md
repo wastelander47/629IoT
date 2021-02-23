@@ -12,4 +12,4 @@ Then I enabled my Google account's 2-step verification, generated a Google App 1
 
 And I ran the code to send an email to my subaccount. My subaccount received the mail successfully.
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/lab1-1.jpg)
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab1-1.png)
