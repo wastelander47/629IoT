@@ -32,7 +32,7 @@ I entered the following commands and successfully switched the LED on and off.
   root@raspberypi:/home/pi# echo 18 > /sys/class/gpio/unexport
   root@raspberypi:/home/pi# exit
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/lab2/lab2-4 (1).jpg)
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab2/lab2-4_(1).jpg)
 
 ##Lab 2E: Inter-integrated circuit (I2C)
 
@@ -55,4 +55,4 @@ Since I don't have DS18B20, I used S8550 D331 instead. After the connection, I t
 
 But after the first try, I can't find the file again. Maybe there's something broke in the circuit.
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/lab2/lab2-6(1).png)
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab2/lab2-6_(1).png)
