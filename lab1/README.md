@@ -3,7 +3,7 @@
 
 I followed the steps on lesson1 and successfully started my raspberry Pi.
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/lab1-3.jpg)
+![alt text](https://github.com/wastelander47/629IoT/lab1/lab1-3.jpg)
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab1-4.jpg)
 
 Then I enabled my Google account's 2-step verification, generated a Google App 16-letter password and put it into the code.
