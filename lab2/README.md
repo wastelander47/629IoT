@@ -55,4 +55,4 @@ Since I don't have DS18B20, I used S8550 D331 instead. After the connection, I t
 
 But after the first try, I can't find the file again. Maybe there's something broke in the circuit.
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/lab2/lab2-6 (1).png)
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab2/lab2-6(1).png)
