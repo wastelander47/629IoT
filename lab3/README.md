@@ -21,7 +21,7 @@ Since I don't have some of those components, I bought them and plan to do it aft
 
 ##Lab 3E: PyPy
 
-Following the instruction, I tested the commands and the result is shown as below.
+Following the instruction, I tested the commands and linked the client and the server successfully. The result is shown as below.
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab3/lab3-6.png)
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab3/lab3-7.png)
