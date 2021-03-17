@@ -1,4 +1,4 @@
-##Labs 4A and 4B: Django and Django REST
+## Labs 4A and 4B: Django and Django REST
 
 Following the instruction, I installed Django and Django REST framework, then installed MariaDB server and client.
 
@@ -29,7 +29,7 @@ Similarly to Django app, I setup all the needed. But when I stepped into
 
 There's an error occured and I don't know what's going on. So I stopped here.
 
-##Lab 4C: Flask
+## Lab 4C: Flask
 
 Following the instruction, I ran Flask server and open a Chromium browser via VNC Viewer and went to http://127.0.0.1:5000/.
 Then I got a Hello World! from hello_world.py.
@@ -51,7 +51,7 @@ However, when I got to the Interaction Model step, I didn't know where I should 
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab4/lab4-9.png)
 
-##Lab 4D: LAMP
+## Lab 4D: LAMP
 
 Following the instruction, I installed Apache HTTP server and PHP.
 
