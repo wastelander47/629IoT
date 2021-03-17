@@ -1,5 +1,5 @@
 
-##Lab 2A: General-purpose input/output (GPIO) and serial communication
+## Lab 2A: General-purpose input/output (GPIO) and serial communication
 
 Following the instruction, I connected the 4th and the 5th serial pins from the left of the top row. Then I installed and run Minicom, enabled new line and enabled echo. The result is as below.
 
@@ -7,19 +7,19 @@ Following the instruction, I connected the 4th and the 5th serial pins from the 
 
 I didn't do the option step since I don't have two respberry Pi.
 
-##Lab 2B: Serial peripheral interface (SPI)
+## Lab 2B: Serial peripheral interface (SPI)
 
 I connect the SPI COPI and CIPO pins and did a spidev-test. The result is as below.
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab2/lab2-2.png)
 
-##Lab 2C: Breadboard
+## Lab 2C: Breadboard
 
 Following the instruction, I connect the LED module to my raspberry Pi.
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab2/lab2-4.jpg)
 
-##Lab 2D: Light-emitting diode (LED)
+## Lab 2D: Light-emitting diode (LED)
 
 I entered the following commands and successfully switched the LED on and off.
   pi@raspberypi:~ $ sudo su
