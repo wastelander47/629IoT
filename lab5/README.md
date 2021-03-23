@@ -26,8 +26,8 @@ And this is the multiple version.
 
 At last I copied system_info.py, subraspi.py, pubraspi.py from ~/iot/lesson5 to ~/demo
 
-Replace topic "Raspberry Pi" with "Tianze" in both subraspi.py and pubraspi.py
+Replace topic "Raspberry Pi" with "Tianze" in both subraspi.py and pubraspi.py.
 
-And ran subraspi.py on Terminal 1 and pubraspi.py on Terminal 2
+And ran subraspi.py on Terminal 1 and pubraspi.py on Terminal 2.
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab5/lab5-6.png)
