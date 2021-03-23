@@ -17,9 +17,11 @@ Following the instruction, I installed and ran Mosquitto to subscribe on Termina
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab5/lab5-3.png)
 
-Then I intalled Paho and run code to subscribe on Terminal 1 and publish on Terminal 2.
+Then I installed Paho and ran code to subscribe on Terminal 1 and publish on Terminal 2.
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab5/lab5-4.png)
+
+And this is the multiple version.
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab5/lab5-5.png)
 
 At last I copied system_info.py, subraspi.py, pubraspi.py from ~/iot/lesson5 to ~/demo
