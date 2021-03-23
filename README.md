@@ -7,3 +7,5 @@
 [REPORT](./lab3/README.md)
 ## LAB4 report
 [REPORT](./lab4/README.md)
+## LAB5 report
+[REPORT](./lab5/README.md)
