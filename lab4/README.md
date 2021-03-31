@@ -25,7 +25,7 @@ After the Django project stevens, I tried Django REST project myraspi.
 
 Similarly to Django app, I setup all the needed. But when I stepped into 
 
-  ~/myraspi $ python3 manage.py makemigrations myapp
+    ~/myraspi $ python3 manage.py makemigrations myapp
 
 There's an error occured and I don't know what's going on. So I stopped here.
 
