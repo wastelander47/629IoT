@@ -14,7 +14,9 @@ Then I installed gspread and oauth2client. After that I started a new spreadshee
 After that I changed the address and name shown in rpi_spreadsheet.py and ran it.
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab7/lab7-3.png)
+
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab7/lab7-4.png)
+
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab7/lab7-5.png)
 
 
