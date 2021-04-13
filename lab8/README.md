@@ -8,12 +8,10 @@ In this lab we tested data analysis python code running on Raspberry Pi.
 ### Ordinary Analysis Code
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab8/lab8-1.png)
-
 pyplot_simple.py
 
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab8/lab8-2.png)
-
 simple_plot.py
 
 
