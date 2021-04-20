@@ -21,13 +21,17 @@ Then folloing the instruction, I SSH -Y to Raspberry Pi, refered to RasQberry fo
 At last I tested the Qiskit examples. The results of the four examples are shown as below.
 
 qiskit_terra_example.py
+
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab9/lab9-4.png)
 
 qiskit_terra_example.py
+
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab9/lab9-5.png)
 
 qiskit_aqua_example.py
+
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab9/lab9-6.png)
 
 qiskit_aqua_example.py
+
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab9/lab9-7.png)
