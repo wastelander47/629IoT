@@ -26,9 +26,11 @@
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-7.png)
 
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-8.png)
+
 ## Lab 10B: IOTA
 
 ### PyOTA (IOTA Python Client Library) and IRI (IOTA Reference Implementation)
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/lab9/lab9-3.png)
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-9.png)
 
