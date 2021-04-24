@@ -42,10 +42,12 @@ After that I ran mam_publish.js at Terminal 1 and ran mam_receive.js at Terminal
 
 Since I don't have DHT22, I used DHT11 again but changed GPIO pin from 4 to 24.
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-circuit.png)
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-circuit.jpg)
+
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-11.png)
 
 After that I ran mam_sensor.js at Terminal 1 and ran mam_receive.js at Terminal 2.
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-11.png)
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-12.png)
 
 
