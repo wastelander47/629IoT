@@ -30,7 +30,22 @@
 
 ## Lab 10B: IOTA
 
-### PyOTA (IOTA Python Client Library) and IRI (IOTA Reference Implementation)
+Following the instruction, I downloaded and built the C library for BCM2835. Then I cloned the code repository and changed nodes.testnet.iota.org to nodes.devnet.iota.org.
+
+Since transactions in the Devnet must use a minimum weight magnitude (MWM) of 9 to be valid, I edited mam.client.js with ^W to search mwm and changed it from 14 to 9 at the end of Line 23375.
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-9.png)
+
+After that I ran mam_publish.js at Terminal 1 and ran mam_receive.js at Terminal 2.
+
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-10.png)
+
+Since I don't have DHT22, I used DHT11 again but changed GPIO pin from 4 to 24.
+
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-circuit.png)
+
+After that I ran mam_sensor.js at Terminal 1 and ran mam_receive.js at Terminal 2.
+
+![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-11.png)
+
 
