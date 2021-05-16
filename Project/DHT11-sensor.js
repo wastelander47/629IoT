@@ -29,10 +29,6 @@ function readSensor(){
     sensor.read(SENSORTYPE, GPIOPIN, function(err, temperature, humidity) {
         if (!err) {
             console.log('temp: ' + temperature.toFixed(1) + 'C, ' + 'humidity: ' + humidity.toFixed(1) + '%');
-	    var fso = new ActiveXObject("Scripting.FileSystemObject");
-	    var a = fso.CreateTextFile("c:\\tempandhum.txt", true);
-	    a.WriteLine(temperature.toFixed(1) + ',' + humidity.toFixed(1));
-	    a.Close();
         } else {
             console.log(err);
         }
