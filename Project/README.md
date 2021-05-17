@@ -37,3 +37,5 @@ Then for the remote display, I changed the address to my Raspberry Pi's IP addre
 
 The code always uploads the latest data read from DHT11. Refresh the web page to get the latest data.
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/remote_url2.png)
+
+By accessing the Raspberry Pi's IP address with the pre-set port, users can get the temperature and humidity information of their room anytime and anywhere.
