@@ -1,7 +1,7 @@
 
 ## Room Temperature and Humidity Monitor
 
-In this project I implemented a room temprature and humidity monitor via Raspberry Pi 4. I 
+In this project I implemented a room temprature and humidity monitor via Raspberry Pi 4. The DHT11 sensor was used to monitor the room's temprature and humidity and the flask was used to upload the result to the website. The project was implemented by python3.
 
 
 ### DHT11 
