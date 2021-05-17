@@ -26,11 +26,13 @@ python3 DHT11.py
 ```
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/local_url.png)
+
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/backend.png)
 
 Then for the remote display, I changed the address to my Raspberry Pi's IP address and ran the code again.
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/remote_url.png)
+
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/backend2.png)
 
 The code always uploads the latest data read from DHT11. Refresh the web page to get the latest data.
