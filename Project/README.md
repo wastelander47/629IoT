@@ -21,6 +21,4 @@ First of all I connected the DHT11 sensor with my Raspberry Pi. Then I implement
 
 After that I built a string to save the temperature and humidity and implemented the flask part to upload the string to the local host 127.0.0.1:5000. The screenshot of the webpage and the backend are shown as below.
 
-![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/local_url.png)
-
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/backend.png)
