@@ -31,3 +31,6 @@ Then for the remote display, I changed the address to my Raspberry Pi's IP addre
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/remote_url.png)
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/backend2.png)
+
+The code upload the latest data read from DHT11. Refresh the web page to get the latest data.
+![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/remote_url2.png)
