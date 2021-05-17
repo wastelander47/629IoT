@@ -7,4 +7,6 @@ In this project I implemented a room temprature and humidity monitor via Raspber
 ### DHT11 
 The DHT11 temperature and humidity sensor is a nice little sensor that provides digital temperature and humidity readings. It’s really easy to set up, and only requires one wire for the data signal. These sensors are popular for use in remote weather stations, soil monitors, and home automation systems.
 
+In this project the DHT11's VCC is connected with 3.3V on Raspberry Pi. The DATA is connected with BCM24. The GND is connected with GND.
+
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/lab10/lab10-circuit.jpg)
