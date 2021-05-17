@@ -18,7 +18,7 @@ Flask is a web framework. This means flask provides you with tools, libraries an
 In this project flask is used to upload the result getting from DHT11 and upload it to the website.
 
 ## Implementation
-First of all I connected the DHT11 sensor with my Raspberry Pi. Then I implemented a method called get_dht_data() to get hte temperature and humidity from the sensor. 
+First of all I connected the DHT11 sensor with my Raspberry Pi. Then I implemented a method called get_dht_data() to get hte temperature and humidity from the sensor. This method can not only get the Celsius temperature and humidity, but also calculate the Fahrenheit temperature. The method returns the Celsius temperature, the Fahrenheit temperature_f, and the humidity.
 
 After that I built a string to save the temperature and humidity and implemented the flask part to upload the string to the local host 127.0.0.1:5000. The screenshot of the webpage and the backend are shown as below.
 ```linux
