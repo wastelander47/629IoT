@@ -20,7 +20,7 @@ In this project flask is used to upload the result getting from DHT11 and upload
 First of all I connected the DHT11 sensor with my Raspberry Pi. Then I implemented a method called get_dht_data() to get hte temperature and humidity from the sensor. 
 
 After that I built a string to save the temperature and humidity and implemented the flask part to upload the string to the local host 127.0.0.1:5000. The screenshot of the webpage and the backend are shown as below.
-    python3 DHT11.py
+        python3 DHT11.py
 
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/local_url.png)
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/backend.png)
