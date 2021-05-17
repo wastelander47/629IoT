@@ -27,4 +27,7 @@ python3 DHT11.py
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/local_url.png)
 ![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/backend.png)
 
-Then I changed the address to my Raspberry Pi's IP address and run the code again.
+Then for the remote display, I changed the address to my Raspberry Pi's IP address and ran the code again.
+
+![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/remote_url.png)
+![alt text](https://github.com/wastelander47/629IoT/blob/main/Project/backend2.png)
